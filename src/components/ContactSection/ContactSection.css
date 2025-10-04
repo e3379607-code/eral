@@ -1,0 +1,152 @@
+.contact_title {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.contact_info {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contact_title p {
+    margin-top: 17px;
+}
+
+.info h1 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.info_card h3 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.contact_form {
+    width: 50%;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    gap: 30px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    border: 1px solid #e1e7ef;   
+}
+
+
+.contact_form input, textarea {
+    width: 100%;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 7px;
+    border: 1px solid #eae8e8;
+    background-color: #f8fafc;
+}
+
+
+label {
+    display: block;
+}
+
+
+.message {
+    height: 55%;
+    font-size: 22px;
+}
+
+
+
+
+
+.card_email {
+    color: #7e6ae3;
+    background-color: #f2f2fc;
+    padding: 5px;
+    width: 19%;
+    border-radius: 100%
+    
+}
+
+
+.card_phone {
+     color: #7e6ae3;
+    background-color: #f2f2fc;
+    padding: 5px;
+    width: 19%;
+    border-radius: 100%
+}
+
+
+
+.card_location {
+    color: #7e6ae3;
+    background-color: #f2f2fc;
+    padding: 5px;
+    width: 19%;
+    border-radius: 100%
+}
+
+
+.connnect {
+  text-align: end;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+
+.connnect h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #1a1a1a;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.social-icons a {
+  font-size: 32px;
+  color: #1a1a1a;
+  transition: color 0.3s ease;
+}
+   
+
+.in {
+    font-size: 25px;
+}
+
+
+.twitter {
+    font-size: 25px;
+    justify-content: center;
+}
+
+
+.instagram {
+    font-size: 25px;
+}
+
+
+.twitch {
+    font-size: 25px;
+}
+
+.connect {
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+
+
+
+
+
+

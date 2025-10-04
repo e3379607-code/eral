@@ -1,0 +1,33 @@
+.hero_section {
+    text-align: center;
+    width: 70%;
+    margin: 0  auto;
+    margin-top: 17%;
+}
+
+
+.hero_title {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+.hero_title span {
+    color: var(--primary-color);
+}
+
+.hero_text {
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+
+
+.arrow {
+    width: 20px;
+    height: 20px;
+}
+
+
+.down-arrow {
+    margin: 0 auto;
+    margin-top: 200px;
+}
