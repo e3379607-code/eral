@@ -14,6 +14,8 @@ function App() {
     AOS.init()
   }, [])
 
+  
+
   return (
     <>
       <Header />
@@ -27,5 +29,8 @@ function App() {
     </>
   )
 }
+
+
+
 
 export default App

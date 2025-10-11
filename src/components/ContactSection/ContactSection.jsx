@@ -30,21 +30,21 @@ const ContactSection = () => {
                         <h1>Contact Information</h1>
                         <div className="info_wrapper">
                             <div className="info_card">
-                                <img src="" alt="" />
+                               
                                 <div className="info_text">
                                     <h3>Email</h3>
                                     <p><MdEmail className='card_email'/>   e3379607@gmail.com</p> 
                                 </div>
                             </div>
                             <div className="info_card">
-                                <img src="" alt="" />
+                                
                                 <div className="info_text">
                                     <h3>Phone</h3>
                                     <p><FaPhone className='card_phone'/>   +7 771 535 4260</p>
                                 </div>
                             </div>
                             <div className="info_card">
-                                <img src="" alt="" />
+                                
                                 <div className="info_text">
                                     <h3>Location</h3>
                                     <p><MdLocationOn className='card_location'/>    Kazakhstan, Almaty</p>

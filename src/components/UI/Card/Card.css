@@ -70,3 +70,9 @@
     justify-content: start;
     color: #0084ff;
 }
+
+@media (max-width: 768px) {
+    .project_card {
+        width: 100%;
+    }
+}

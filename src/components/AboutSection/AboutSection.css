@@ -68,3 +68,17 @@
     justify-content: center;
     align-items: center;
 }
+
+@media (max-width: 768px) {
+    .about {
+        flex-wrap: wrap;
+    }
+
+    .about_cards {
+        width: 100%;
+    }
+
+    .about_text {
+        width: 100%;
+    }
+}

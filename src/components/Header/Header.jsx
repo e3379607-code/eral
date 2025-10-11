@@ -1,5 +1,6 @@
 import './Header.css'
 import moonIcon from '../../assets/moon (3).png'
+import { LuSunMedium } from "react-icons/lu";
 
 const Header = () => {
     return (
@@ -9,6 +10,9 @@ const Header = () => {
                     <div className="logo">
                         Eraly <span>Portfolio</span>
                     </div>
+                    
+
+                    
 
                     <nav className='links'>
                         <a href="#home">Home</a>
@@ -17,11 +21,16 @@ const Header = () => {
                         <a href="#projects">Projects</a>
                         <a href="#contacts">Contact</a>
                         <img className='moon' src={moonIcon} alt="" />
+                        <LuSunMedium className='sun'/>
                     </nav>
                 </div>
+                
             </div>
         </header>
     )
 }
+
+
+
 
 export default Header

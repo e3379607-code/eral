@@ -147,6 +147,14 @@ label {
 
 
 
+@media (max-width:768px) {
+    .contact_info {
+        flex-wrap: wrap;
+    }
 
+    .contact_form {
+        width: 100%;
+    }
+} 
 
 
